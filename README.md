@@ -1,11 +1,13 @@
 # lab
 
-Personal DevOps experiments and CI/CD snippets.
+Personal experiments and infrastructure snippets.
 
-## Contents
-- Pipeline snippets
-- Infra notes
-- Random automation toys
+## Structure
+
+- `scripts/` – small automation and helper scripts
+- `configs/` – dotfiles and service configs
+- `notes/` – quick reference and troubleshooting
 
 ## Usage
-Browse freely, nothing is guaranteed stable.
+
+Most items are standalone. Check individual files for comments.
